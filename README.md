@@ -1,4 +1,4 @@
-###TensorFlow implementation of [**A Neural Algorithm of Artistic Style**](http://arxiv.org/abs/1508.06576).
+###T ensorFlow implementation of [**A Neural Algorithm of Artistic Style**](http://arxiv.org/abs/1508.06576).
 
 ![Style](/images/painting1.jpg)
 ![Content](/images/raw.jpg)
